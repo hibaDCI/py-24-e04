@@ -1,0 +1,38 @@
+ul {
+    background-color: rgb(69, 186, 186);
+  }
+
+  .list-food {
+    background-color: rgb(219, 110, 219);
+  }
+
+  span {
+    color: red;
+  }
+
+  ol {
+    background-color: #95e18e;
+
+    border: 4px solid red;
+
+    padding: 40px;
+    margin: 100px;
+  }
+
+  .sq-1 {
+    width: 300px;/* this the absolute size(px) */
+    /*width: 50vw; this the relative size(vw) */
+   /* width: 50%; this the relative size(%) */
+    background-color: coral;
+
+    border: 2px solid red ;
+
+    padding: 10px;
+
+    margin: 10px;
+
+    /* box-sizing: content-box; when add padding , border , these will be added to the width , by default */
+
+    box-sizing: border-box;
+
+  }

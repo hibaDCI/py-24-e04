@@ -44,19 +44,6 @@ Margin is the space outside an element's border. It's like an external spacing t
 
 
 
-# javascript
-
-- Completely different from HTML and CSS 😊
-- JavaScript was created in just 10 days.
--  Brendan Eich was the developer behind it.
--  JS adds dynamic functionality
--  JS can affect anything on your page
-- #  JavaScript often waits for and reacts to events on the page
-   - Something happens when a button is pressed
-   - Something happens when the mouse moves over an element
-   - Something happens when the page is done loading
-
-
 
 
 
